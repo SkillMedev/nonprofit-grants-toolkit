@@ -9,7 +9,7 @@ Reach for this when you lead a small nonprofit and funding depends on you person
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/nonprofit-grants-toolkit](https://skillme.dev/pack/nonprofit-grants-toolkit) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/nonprofit-grants-toolkit`
+- **With the skills CLI:** `npx skills add SkillMedev/nonprofit-grants-toolkit`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
