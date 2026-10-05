@@ -1,16 +1,17 @@
 # Nonprofit & Grants Toolkit
 
-**For small-nonprofit leaders: win grants, keep donors, and run a board that engages.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For small-nonprofit leaders: win grants, keep donors, and run a board that engages.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-nonprofit-grants-toolkit).
 
 Reach for this when you lead a small nonprofit and funding depends on you personally winning grants and keeping donors warm. It runs the development office you don't have headcount for: research and score funders by real fit (reading their 990s, sizing the pipeline at 4-5x the goal), write the one-page LOI that earns a full-proposal invitation, build the full proposal on a logic model with SMART objectives and a budget that traces to activities, keep individual donors giving with a 3:1 impact-to-ask cadence, publish an impact report that leads with outcomes instead of activity counts, and put a board pack on the table that produces decisions instead of nodding. One worked example - a $420k youth-education nonprofit seeking a $75k grant - threads through every skill.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/nonprofit-grants-toolkit](https://skillme.dev/pack/nonprofit-grants-toolkit) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/nonprofit-grants-toolkit?utm_source=github&utm_medium=readme&utm_campaign=pack-nonprofit-grants-toolkit) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add grant-prospect-researcher grant-loi-writer grant-proposal-writer donor-communications impact-report-builder nonprofit-board-pack --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/nonprofit-grants-toolkit`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -24,4 +25,4 @@ Reach for this when you lead a small nonprofit and funding depends on you person
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-nonprofit-grants-toolkit).
